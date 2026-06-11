@@ -1,0 +1,8 @@
+aiogram==3.28.2
+aiohttp
+sqlmodel==0.0.14
+python-dotenv==1.0.0
+sqlalchemy==2.0.23
+emoji
+edge_tts
+Pillow
